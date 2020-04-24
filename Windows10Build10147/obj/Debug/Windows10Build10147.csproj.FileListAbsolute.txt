@@ -1,0 +1,183 @@
+C:\Users\Developer\Desktop\Windows10Build10147\Windows10Build10147\bin\Debug\Windows10Build10147.exe.config
+C:\Users\Developer\Desktop\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.csprojResolveAssemblyReference.cache
+C:\Users\Developer\Desktop\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.Properties.Resources.resources
+C:\Users\Developer\Desktop\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.csproj.GenerateResource.Cache
+C:\Users\Developer\Desktop\Windows10Build10147\Windows10Build10147\bin\Debug\Windows10Build10147.exe
+C:\Users\Developer\Desktop\Windows10Build10147\Windows10Build10147\bin\Debug\Windows10Build10147.pdb
+C:\Users\Developer\Desktop\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.exe
+C:\Users\Developer\Desktop\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.pdb
+C:\Users\Developer\Desktop\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.Formlar.frmMainBackStart.resources
+C:\Users\Developer\Desktop\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.Formlar.frmLock.resources
+C:\Users\Developer\Desktop\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.Formlar.frmUsers.resources
+C:\Users\Developer\Desktop\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.Formlar.frmMesaj.resources
+C:\Users\Developer\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\Windows10Build10147.exe.config
+C:\Users\Developer\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.exe
+C:\Users\Developer\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.pdb
+C:\Users\Developer\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\Windows10Build10147.exe
+C:\Users\Developer\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\Windows10Build10147.pdb
+C:\Users\Developer\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.csprojResolveAssemblyReference.cache
+C:\Users\Developer\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.Formlar.frmMainBackStart.resources
+C:\Users\Developer\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.Formlar.frmLock.resources
+C:\Users\Developer\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.Formlar.frmMesaj.resources
+C:\Users\Developer\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.Formlar.frmUsers.resources
+C:\Users\Developer\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.Properties.Resources.resources
+C:\Users\Developer\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.csproj.GenerateResource.Cache
+C:\Users\Developer\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.Formlar.frmMasaustu.resources
+C:\Users\Developer\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.Formlar.frmWelcome.resources
+C:\Users\Developer\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.Formlar.frmGorevCubugu.resources
+C:\Users\Developer\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.Formlar.frmStartMenu.resources
+C:\Users\Developer\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.Formlar.Uygulama_Kapat.frmKapat.resources
+C:\Users\Developer\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.Formlar.Ayarlar.frmAyarlar.resources
+C:\Users\Developer\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.Formlar.Ayarlar.Ayarlar_Menu_Listesi.AyarlarMain.resources
+C:\Users\Developer\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.Formlar.Ayarlar.Sistem.AyarlarSistem.resources
+C:\Users\Developer\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.Formlar.Kisisellestir.AyarlarKisisellestir.resources
+C:\Users\Developer\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.Formlar.Ayarlar.Kisisellestir.AyarlarArkaplan.resources
+C:\Users\Developer\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.Formlar.Ayarlar.AyarlarVarsayılan.resources
+C:\Users\Developer\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.Formlar.Ayarlar.Kisisellestir.AyarlarRenkler.resources
+C:\Users\Developer\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.frmSearch.resources
+F:\Yedek\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\Windows10Build10147.exe.config
+F:\Yedek\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.exe
+F:\Yedek\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.pdb
+F:\Yedek\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\Windows10Build10147.exe
+F:\Yedek\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\Windows10Build10147.pdb
+F:\Yedek\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.csprojResolveAssemblyReference.cache
+F:\Yedek\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.Formlar.Ayarlar.Ayarlar_Menu_Listesi.AyarlarMain.resources
+F:\Yedek\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.Formlar.Ayarlar.AyarlarVarsayılan.resources
+F:\Yedek\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.Formlar.Ayarlar.frmAyarlar.resources
+F:\Yedek\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.Formlar.Ayarlar.Kisisellestir.AyarlarArkaplan.resources
+F:\Yedek\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.Formlar.Ayarlar.Kisisellestir.AyarlarRenkler.resources
+F:\Yedek\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.Formlar.Ayarlar.Sistem.AyarlarSistem.resources
+F:\Yedek\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.Formlar.frmGorevCubugu.resources
+F:\Yedek\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.Formlar.frmMainBackStart.resources
+F:\Yedek\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.Formlar.frmLock.resources
+F:\Yedek\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.Formlar.frmMasaustu.resources
+F:\Yedek\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.Formlar.frmMesaj.resources
+F:\Yedek\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.Formlar.frmStartMenu.resources
+F:\Yedek\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.Formlar.frmUsers.resources
+F:\Yedek\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.Formlar.frmWelcome.resources
+F:\Yedek\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.Formlar.Kisisellestir.AyarlarKisisellestir.resources
+F:\Yedek\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.Formlar.Uygulama_Kapat.frmKapat.resources
+F:\Yedek\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.frmSearch.resources
+F:\Yedek\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.Properties.Resources.resources
+F:\Yedek\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.csproj.GenerateResource.Cache
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\Windows10Build10147.exe.config
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.exe
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.pdb
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\Windows10Build10147.exe
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\Windows10Build10147.pdb
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.csprojResolveAssemblyReference.cache
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.Formlar.Ayarlar.Ayarlar_Menu_Listesi.AyarlarMain.resources
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.Formlar.Ayarlar.AyarlarVarsayılan.resources
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.Formlar.Ayarlar.frmAyarlar.resources
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.Formlar.Ayarlar.Kisisellestir.AyarlarArkaplan.resources
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.Formlar.Ayarlar.Kisisellestir.AyarlarRenkler.resources
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.Formlar.Ayarlar.Sistem.AyarlarSistem.resources
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.Formlar.frmGorevCubugu.resources
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.Formlar.frmMainBackStart.resources
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.Formlar.frmLock.resources
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.Formlar.frmMasaustu.resources
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.Formlar.frmMesaj.resources
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.Formlar.frmStartMenu.resources
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.Formlar.frmUsers.resources
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.Formlar.frmWelcome.resources
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.Formlar.Kisisellestir.AyarlarKisisellestir.resources
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.Formlar.Uygulama_Kapat.frmKapat.resources
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.frmSearch.resources
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.Properties.Resources.resources
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.csproj.GenerateResource.Cache
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.Formlar.frmNotifications.resources
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\DevExpress.Data.v15.1.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\DevExpress.Utils.v15.1.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\DevExpress.Data.v15.1.xml
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\DevExpress.Utils.v15.1.xml
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.exe.licenses
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\DevExpress.Map.v15.1.Core.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\DevExpress.XtraBars.v15.1.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\DevExpress.XtraMap.v15.1.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\DevExpress.XtraVerticalGrid.v15.1.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\DevExpress.XtraTreeList.v15.1.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\DevExpress.XtraLayout.v15.1.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\DevExpress.Office.v15.1.Core.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\DevExpress.Map.v15.1.Core.xml
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\DevExpress.XtraBars.v15.1.xml
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\DevExpress.XtraMap.v15.1.xml
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\DevExpress.XtraVerticalGrid.v15.1.xml
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\DevExpress.XtraTreeList.v15.1.xml
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\DevExpress.Office.v15.1.Core.xml
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\de\DevExpress.Map.v15.1.Core.resources.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\es\DevExpress.Map.v15.1.Core.resources.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\ja\DevExpress.Map.v15.1.Core.resources.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\ru\DevExpress.Map.v15.1.Core.resources.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\de\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\es\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\DevExpress.XtraGauges.v15.1.Core.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\DevExpress.XtraGauges.v15.1.Win.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\DevExpress.XtraGauges.v15.1.Core.xml
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\DevExpress.XtraGauges.v15.1.Win.xml
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\de\DevExpress.XtraGauges.v15.1.Core.resources.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\es\DevExpress.XtraGauges.v15.1.Core.resources.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\ja\DevExpress.XtraGauges.v15.1.Core.resources.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\ru\DevExpress.XtraGauges.v15.1.Core.resources.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.Formlar.frmAraclar.resources
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.Formlar.Microsoft_Edge.frmEgde.resources
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.frmBackground.resources
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\WebKit.Interop.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\bin\Debug\stdole.dll
+C:\Users\Mevlüt Tuna\Desktop\Sanal Masaüstü Projesi\Windows10Build10147\Windows10Build10147\obj\Debug\Windows10Build10147.Formlar.Microsoft_Edge.EdgeMain.resources

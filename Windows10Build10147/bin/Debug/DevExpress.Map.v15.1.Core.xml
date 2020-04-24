@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DevExpress.Map.v15.1.Core</name>
+    </assembly>
+    <members>
+        <member name="T:DevExpress.Map.RangeDistributionBase">
+
+            <summary>
+                <para>The base for classes that define distribution of color ranges in a colorizer.
+</para>
+            </summary>
+
+        </member>
+        <member name="M:DevExpress.Map.RangeDistributionBase.ConvertRangeValue(System.Double,System.Double,System.Double)">
+            <summary>
+                <para>Converts the specified range value.
+</para>
+            </summary>
+            <param name="min">
+		A <see cref="T:System.Double"/> object that is the minimum possible value.
+
+            </param>
+            <param name="max">
+		A <see cref="T:System.Double"/> object that is the maximum possible value.
+
+            </param>
+            <param name="value">
+		A value to be converted.
+
+            </param>
+            <returns>A <a href="ms-xhelp:///?Id=T%3aSystem.Double">Double</a> object that is the result of the conversion.
+</returns>
+
+
+        </member>
+        <member name="T:DevExpress.Map.CoordPoint">
+
+            <summary>
+                <para>The base class for all map coordinate points.
+</para>
+            </summary>
+
+        </member>
+        <member name="M:DevExpress.Map.CoordPoint.Equals(System.Object)">
+            <summary>
+                <para>Determines whether the two specified CoordPoint objects are equal.
+</para>
+            </summary>
+            <param name="o">
+		The object to compare with the current object.
+
+            </param>
+            <returns><b>true</b> if specified objects are equal; otherwise <b>false</b>.
+</returns>
+
+
+        </member>
+        <member name="M:DevExpress.Map.CoordPoint.GetHashCode">
+            <summary>
+                <para>Gets the hash code (a number) that corresponds to the value of the current CoordPoint object.
+</para>
+            </summary>
+            <returns>An integer value that is the hash code for the current object.
+</returns>
+
+
+        </member>
+        <member name="M:DevExpress.Map.CoordPoint.GetX">
+            <summary>
+                <para>Returns the value of the X coordinate.
+</para>
+            </summary>
+            <returns>A <see cref="T:System.Double"/> value.
+</returns>
+
+
+        </member>
+        <member name="M:DevExpress.Map.CoordPoint.GetY">
+            <summary>
+                <para>Returns the value of the Y coordinate.
+</para>
+            </summary>
+            <returns>A <see cref="T:System.Double"/> value.
+</returns>
+
+
+        </member>
+        <member name="M:DevExpress.Map.CoordPoint.Offset(System.Double,System.Double)">
+            <summary>
+                <para>Initializes an instance of a <see cref="T:DevExpress.Map.CoordPoint"/> class descendant object offset by specified values.
+</para>
+            </summary>
+            <param name="offsetX">
+		A <see cref="T:System.Double"/> value specifying an X coordinate offset.
+
+            </param>
+            <param name="offsetY">
+		A <see cref="T:System.Double"/> value specifying an Y coordinate offset.
+
+            </param>
+            <returns>A <see cref="T:DevExpress.Map.CoordPoint"/> class descendant object.
+</returns>
+
+
+        </member>
+        <member name="M:DevExpress.Map.CoordPoint.ToString">
+            <summary>
+                <para>Returns the textual representation of the CoordPoint.
+
+</para>
+            </summary>
+            <returns>A <see cref="T:System.String"/> value, which is the textual representation of the CoordPoint.
+
+</returns>
+
+
+        </member>
+        <member name="M:DevExpress.Map.CoordPoint.ToString(System.IFormatProvider)">
+            <summary>
+                <para>Returns the textual representation of the CoordPoint.
+
+</para>
+            </summary>
+            <param name="provider">
+		An object implementing the <see cref="T:System.IFormatProvider"/> interface.
+
+            </param>
+            <returns>A <see cref="T:System.String"/> value, which is the textual representation of the CoordPoint.
+
+</returns>
+
+
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,555 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7FBF464D-BEFF-49E9-B234-211993F15C90}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Windows10Build10147</RootNamespace>
+    <AssemblyName>Windows10Build10147</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Data.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Map.v15.1.Core, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Printing.v15.1.Core, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Sparkline.v15.1.Core, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraBars.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGauges.v15.1.Core, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraGauges.v15.1.Win, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraMap.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraVerticalGrid.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="WebKitBrowser">
+      <HintPath>..\..\..\WebKit.NET-0.5-bin-cairo\WebKit.NET-0.5-bin-cairo\bin\WebKitBrowser.dll</HintPath>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Formlar\Ayarlar\Ayarlar Menu Listesi\AyarlarMain.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Formlar\Ayarlar\Ayarlar Menu Listesi\AyarlarMain.Designer.cs">
+      <DependentUpon>AyarlarMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\Ayarlar\AyarlarVarsayılan.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Formlar\Ayarlar\AyarlarVarsayılan.Designer.cs">
+      <DependentUpon>AyarlarVarsayılan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\Ayarlar\frmAyarlar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\Ayarlar\frmAyarlar.Designer.cs">
+      <DependentUpon>frmAyarlar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\Ayarlar\Kisisellestir\AyarlarArkaplan.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Formlar\Ayarlar\Kisisellestir\AyarlarArkaplan.Designer.cs">
+      <DependentUpon>AyarlarArkaplan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\Ayarlar\Kisisellestir\AyarlarRenkler.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Formlar\Ayarlar\Kisisellestir\AyarlarRenkler.Designer.cs">
+      <DependentUpon>AyarlarRenkler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\Ayarlar\Sistem\AyarlarSistem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Formlar\Ayarlar\Sistem\AyarlarSistem.Designer.cs">
+      <DependentUpon>AyarlarSistem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\frmAraclar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\frmAraclar.Designer.cs">
+      <DependentUpon>frmAraclar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\frmGorevCubugu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\frmGorevCubugu.Designer.cs">
+      <DependentUpon>frmGorevCubugu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\frmMainBackStart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\frmMainBackStart.Designer.cs">
+      <DependentUpon>frmMainBackStart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\frmLock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\frmLock.Designer.cs">
+      <DependentUpon>frmLock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\frmMasaustu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\frmMasaustu.Designer.cs">
+      <DependentUpon>frmMasaustu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\frmMesaj.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\frmMesaj.Designer.cs">
+      <DependentUpon>frmMesaj.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\frmNotifications.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\frmNotifications.Designer.cs">
+      <DependentUpon>frmNotifications.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\frmStartMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\frmStartMenu.Designer.cs">
+      <DependentUpon>frmStartMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\frmUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\frmUsers.Designer.cs">
+      <DependentUpon>frmUsers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\frmWelcome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\frmWelcome.Designer.cs">
+      <DependentUpon>frmWelcome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\Ayarlar\Kisisellestir\AyarlarKisisellestir.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Formlar\Ayarlar\Kisisellestir\AyarlarKisisellestir.Designer.cs">
+      <DependentUpon>AyarlarKisisellestir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\Microsoft Edge\EdgeMain.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Formlar\Microsoft Edge\EdgeMain.Designer.cs">
+      <DependentUpon>EdgeMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\Microsoft Edge\frmEgde.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\Microsoft Edge\frmEgde.Designer.cs">
+      <DependentUpon>frmEgde.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\Uygulama Kapat\frmKapat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\Uygulama Kapat\frmKapat.Designer.cs">
+      <DependentUpon>frmKapat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\frmSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\frmSearch.Designer.cs">
+      <DependentUpon>frmSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBackground.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBackground.Designer.cs">
+      <DependentUpon>frmBackground.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sınıflar\Araclar.cs" />
+    <Compile Include="Sınıflar\Ayarlar.cs" />
+    <Compile Include="Sınıflar\BasitFormAc.cs" />
+    <Compile Include="Sınıflar\Bildirimler.cs" />
+    <Compile Include="Sınıflar\BlurBackground.cs" />
+    <Compile Include="Sınıflar\Edge.cs" />
+    <Compile Include="Sınıflar\FormIslemleri.cs" />
+    <Compile Include="Sınıflar\MainCloser.cs" />
+    <Compile Include="Sınıflar\Mesaj.cs" />
+    <Compile Include="Sınıflar\StartMenu.cs" />
+    <Compile Include="Sınıflar\User.cs" />
+    <EmbeddedResource Include="Formlar\Ayarlar\Ayarlar Menu Listesi\AyarlarMain.resx">
+      <DependentUpon>AyarlarMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\Ayarlar\AyarlarVarsayılan.resx">
+      <DependentUpon>AyarlarVarsayılan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\Ayarlar\frmAyarlar.resx">
+      <DependentUpon>frmAyarlar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\Ayarlar\Kisisellestir\AyarlarArkaplan.resx">
+      <DependentUpon>AyarlarArkaplan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\Ayarlar\Kisisellestir\AyarlarRenkler.resx">
+      <DependentUpon>AyarlarRenkler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\Ayarlar\Sistem\AyarlarSistem.resx">
+      <DependentUpon>AyarlarSistem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\frmAraclar.resx">
+      <DependentUpon>frmAraclar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\frmGorevCubugu.resx">
+      <DependentUpon>frmGorevCubugu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\frmMainBackStart.resx">
+      <DependentUpon>frmMainBackStart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\frmLock.resx">
+      <DependentUpon>frmLock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\frmMasaustu.resx">
+      <DependentUpon>frmMasaustu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\frmMesaj.resx">
+      <DependentUpon>frmMesaj.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\frmNotifications.resx">
+      <DependentUpon>frmNotifications.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\frmStartMenu.resx">
+      <DependentUpon>frmStartMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\frmUsers.resx">
+      <DependentUpon>frmUsers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\frmWelcome.resx">
+      <DependentUpon>frmWelcome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\Ayarlar\Kisisellestir\AyarlarKisisellestir.resx">
+      <DependentUpon>AyarlarKisisellestir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\Microsoft Edge\EdgeMain.resx">
+      <DependentUpon>EdgeMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\Microsoft Edge\frmEgde.resx">
+      <DependentUpon>frmEgde.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\Uygulama Kapat\frmKapat.resx">
+      <DependentUpon>frmKapat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\frmSearch.resx">
+      <DependentUpon>frmSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBackground.resx">
+      <DependentUpon>frmBackground.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Background.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Başlıksız-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\start.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Start Menu\full30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Start Menu\exitFull30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search-15.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search Filled-25.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search Filled-20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search Filled-18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Formlar\Ayarlar\Ayarlar Başlık Listesi\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Right Filled-25.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\green.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\orange.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\white.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search Filled-16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\win 10 guncel start.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\win 10 guncel ekranlar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\win 10 guncel ara.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\guncel ara.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ara.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Flag Filled -20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Wi-Fi-20 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Speaker-20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Appointment Reminders-20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\searchBack2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\searchBackWhite.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search Filled-181.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yellow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Toggle Off.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Toggle On Filled.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Toggle Off1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tablet mode.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\baglan.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tasarruf mode.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ayarlar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VPN.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ekran.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Not.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wifi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sessiz.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\konum.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ucak mode.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yukari.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\filter_loader.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ajax-loader-transparent-60.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loading.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Settings 3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Map.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MicrosoftEdgeSquare44x44.targetsize-16_altform-unplated.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\closeWhite.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fullScreenWhite.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimizeWhite.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fullScreenWhite1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fullScreen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimize.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Left Filled-32 %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Left Filled-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Undo-32 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Left-25 %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Left-25.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\biking_summer_grass_light_road_96299_3840x2160.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Restart-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Restart-25.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Restart-251.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Synchronize-25.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Refresh-25.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Back-25.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Forward-25.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Left Filled-25.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Right Filled-251.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Delete-25.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search-25.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Plus Math.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Plus-25.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ios7-plus-empty-128-000000.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MicrosoftEdgeSquare44x44.targetsize-64.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
